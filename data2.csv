@@ -1,0 +1,330 @@
+Municipality,Year,Cared Patients
+Antioquia,2009,9826
+Antioquia,2010,1041
+Antioquia,2011,10
+Antioquia,2012,10317
+Antioquia,2013,10983
+Antioquia,2014,13594
+Antioquia,2015,13174
+Antioquia,2016,14752
+Antioquia,2017,16975
+Antioquia,2018,13213
+Atlántico,2009,2028
+Atlántico,2010,1954
+Atlántico,2011,2072
+Atlántico,2012,2467
+Atlántico,2013,214
+Atlántico,2014,2935
+Atlántico,2015,3004
+Atlántico,2016,2636
+Atlántico,2017,3659
+Atlántico,2018,2382
+Bogotá,2009,15309
+Bogotá,2010,16738
+Bogotá,2011,19622
+Bogotá,2012,19266
+Bogotá,2013,18141
+Bogotá,2014,2063
+Bogotá,2015,17692
+Bogotá,2016,14365
+Bogotá,2017,17342
+Bogotá,2018,13381
+Bolívar,2009,1204
+Bolívar,2010,1156
+Bolívar,2011,1558
+Bolívar,2012,1618
+Bolívar,2013,1455
+Bolívar,2014,2253
+Bolívar,2015,1856
+Bolívar,2016,1658
+Bolívar,2017,23
+Bolívar,2018,1507
+Boyacá,2009,2786
+Boyacá,2010,2742
+Boyacá,2011,3154
+Boyacá,2012,3692
+Boyacá,2013,352
+Boyacá,2014,3827
+Boyacá,2015,2867
+Boyacá,2016,1959
+Boyacá,2017,2856
+Boyacá,2018,1847
+Caldas,2009,1284
+Caldas,2010,1586
+Caldas,2011,1595
+Caldas,2012,187
+Caldas,2013,1999
+Caldas,2014,241
+Caldas,2015,2078
+Caldas,2016,2084
+Caldas,2017,273
+Caldas,2018,1899
+Caquetá,2009,309
+Caquetá,2010,320
+Caquetá,2011,366
+Caquetá,2012,519
+Caquetá,2013,560
+Caquetá,2014,698
+Caquetá,2015,586
+Caquetá,2016,493
+Caquetá,2017,917
+Caquetá,2018,215
+Cauca,2009,775
+Cauca,2010,2094
+Cauca,2011,261
+Cauca,2012,2205
+Cauca,2013,2494
+Cauca,2014,2679
+Cauca,2015,2393
+Cauca,2016,2145
+Cauca,2017,2601
+Cauca,2018,1121
+Cesar,2009,1342
+Cesar,2010,758
+Cesar,2011,989
+Cesar,2012,919
+Cesar,2013,951
+Cesar,2014,1715
+Cesar,2015,1047
+Cesar,2016,773
+Cesar,2017,1278
+Cesar,2018,734
+Córdoba,2009,1288
+Córdoba,2010,1159
+Córdoba,2011,1561
+Córdoba,2012,1836
+Córdoba,2013,1833
+Córdoba,2014,248
+Córdoba,2015,297
+Córdoba,2016,2258
+Córdoba,2017,2689
+Córdoba,2018,2144
+Cundinamarca,2009,2486
+Cundinamarca,2010,2865
+Cundinamarca,2011,3463
+Cundinamarca,2012,39
+Cundinamarca,2013,3861
+Cundinamarca,2014,4491
+Cundinamarca,2015,4605
+Cundinamarca,2016,4363
+Cundinamarca,2017,5159
+Cundinamarca,2018,3958
+Chocó,2009,37
+Chocó,2010,38
+Chocó,2011,52
+Chocó,2012,168
+Chocó,2013,60
+Chocó,2014,100
+Chocó,2015,130
+Chocó,2016,150
+Chocó,2017,143
+Chocó,2018,86
+Huila,2009,1277
+Huila,2010,1388
+Huila,2011,1691
+Huila,2012,1973
+Huila,2013,2003
+Huila,2014,2493
+Huila,2015,1974
+Huila,2016,1527
+Huila,2017,2087
+Huila,2018,126
+La Guajira,2009,127
+La Guajira,2010,165
+La Guajira,2011,215
+La Guajira,2012,293
+La Guajira,2013,265
+La Guajira,2014,407
+La Guajira,2015,340
+La Guajira,2016,326
+La Guajira,2017,513
+La Guajira,2018,360
+Magdalena,2009,475
+Magdalena,2010,649
+Magdalena,2011,685
+Magdalena,2012,734
+Magdalena,2013,770
+Magdalena,2014,113
+Magdalena,2015,1139
+Magdalena,2017,1418
+Magdalena,2016,811
+Meta,2009,933
+Meta,2010,1005
+Meta,2011,1163
+Meta,2012,1142
+Meta,2013,1063
+Meta,2014,1221
+Meta,2015,981
+Meta,2016,560
+Meta,2017,717
+Meta,2018,447
+Nariño,2009,342
+Nariño,2010,4199
+Nariño,2011,5392
+Nariño,2012,4856
+Nariño,2013,4867
+Magdalena,2018,866
+Nariño,2014,6086
+Nariño,2015,5765
+Nariño,2016,4711
+Nariño,2017,519
+Nariño,2018,2856
+Norte de Santander,2009,708
+Norte de Santander,2010,642
+Norte de Santander,2011,1133
+Norte de Santander,2012,109
+Norte de Santander,2013,1007
+Norte de Santander,2014,1528
+Norte de Santander,2015,1451
+Norte de Santander,2016,733
+Norte de Santander,2017,1588
+Norte de Santander,2018,1009
+Quindio,2009,860
+Quindio,2010,1304
+Quindio,2011,123
+Quindio,2012,936
+Quindio,2013,1106
+Quindio,2014,911
+Quindio,2015,959
+Quindio,2016,914
+Quindio,2017,1369
+Quindio,2018,719
+Risaralda,2009,2026
+Risaralda,2010,1864
+Risaralda,2011,2362
+Risaralda,2012,2247
+Risaralda,2013,2276
+Risaralda,2014,2525
+Risaralda,2015,207
+Risaralda,2016,1705
+Risaralda,2017,2082
+Risaralda,2018,1358
+Santander,2009,2935
+Santander,2010,2336
+Santander,2011,3069
+Santander,2012,2835
+Santander,2013,2895
+Santander,2014,3569
+Santander,2015,3311
+Santander,2016,2541
+Santander,2017,32
+Santander,2018,2301
+Sucre,2009,436
+Sucre,2010,433
+Sucre,2011,454
+Sucre,2012,522
+Sucre,2013,799
+Sucre,2014,1109
+Sucre,2015,1057
+Sucre,2016,891
+Sucre,2017,1338
+Sucre,2018,1014
+Tolima,2009,1467
+Tolima,2010,1287
+Tolima,2011,1694
+Tolima,2012,1949
+Tolima,2013,1687
+Tolima,2014,2017
+Tolima,2015,197
+Tolima,2016,1222
+Tolima,2017,1718
+Tolima,2018,1193
+Valle del Cauca,2009,3829
+Valle del Cauca,2010,3564
+Valle del Cauca,2011,5589
+Valle del Cauca,2012,6343
+Valle del Cauca,2013,6868
+Valle del Cauca,2014,7339
+Valle del Cauca,2015,7659
+Valle del Cauca,2016,6969
+Valle del Cauca,2017,844
+Valle del Cauca,2018,5032
+Arauca,2009,40
+Arauca,2010,92
+Arauca,2011,152
+Arauca,2012,122
+Arauca,2013,110
+Arauca,2014,191
+Arauca,2015,210
+Arauca,2016,95
+Arauca,2017,174
+Arauca,2018,98
+Casanare,2009,153
+Casanare,2010,81
+Casanare,2011,150
+Casanare,2012,181
+Casanare,2013,172
+Casanare,2014,224
+Casanare,2015,403
+Casanare,2016,297
+Casanare,2017,344
+Casanare,2018,229
+Putumayo,2009,73
+Putumayo,2010,216
+Putumayo,2011,326
+Putumayo,2012,347
+Putumayo,2013,332
+Putumayo,2014,665
+Putumayo,2015,394
+Putumayo,2016,337
+Putumayo,2017,364
+Putumayo,2018,159
+San Andrés Providencia,2009,4
+San Andrés Providencia,2010,12
+San Andrés Providencia,2011,3
+San Andrés Providencia,2012,13
+San Andrés Providencia,2013,36
+San Andrés Providencia,2014,34
+San Andrés Providencia,2015,21
+San Andrés Providencia,2016,10
+San Andrés Providencia,2017,42
+San Andrés Providencia,2018,6
+Amazonas,2009,16
+Amazonas,2010,26
+Amazonas,2011,38
+Amazonas,2012,46
+Amazonas,2013,71
+Amazonas,2014,63
+Amazonas,2015,67
+Amazonas,2016,24
+Amazonas,2017,59
+Amazonas,2018,25
+Guainía,2009,2
+Guainía,2010,7
+Guainía,2011,6
+Guainía,2012,4
+Guainía,2013,6
+Guainía,2014,16
+Guainía,2015,33
+Guainía,2016,3
+Guainía,2018,1
+Guaviare,2009,55
+Guaviare,2010,67
+Guaviare,2011,26
+Guaviare,2012,66
+Guaviare,2013,104
+Guaviare,2014,96
+Guaviare,2015,41
+Guaviare,2016,17
+Guaviare,2017,20
+Guaviare,2018,15
+Vaupés,2009,9
+Vaupés,2010,5
+Vaupés,2011,11
+Vaupés,2012,11
+Vaupés,2013,7
+Vaupés,2014,19
+Vaupés,2015,9
+Vaupés,2016,3
+Vaupés,2017,4
+Vaupés,2018,4
+Vichada,2009,1
+Vichada,2010,11
+Vichada,2011,12
+Vichada,2012,16
+Vichada,2013,18
+Vichada,2014,29
+Vichada,2015,14
+Vichada,2016,9
+Vichada,2017,20
+Vichada,2018,15
